@@ -1,0 +1,15 @@
+{
+  "name": "@justinjunodev/clapback",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "justinjunodev/clapback",
+  "main": "index.js",
+  "keywords": [
+    "clapback",
+    "emoji",
+    "npm",
+    "package",
+    "justinjunodev"
+  ]
+}
